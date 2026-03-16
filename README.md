@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full-Stack_Web_Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:Gamil:- mussababdullah68@gmail.com
+- 📫 How to reach me: Gmail:- mussababdullah68@gmail.com
 
 
 <!---

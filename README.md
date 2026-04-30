@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musab369
 - I know C, Python, HTML, CSS, Javascript..
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Full-Stack_Web_Development
+- 🌱 I’m currently learning Machine Learning..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Gmail:- mussababdullah68@gmail.com
 

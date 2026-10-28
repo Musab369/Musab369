@@ -1,127 +1,146 @@
-Mussab Abdullah | GitHub Profile
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B12,40:111827,75:5422A8,100:00D9FF&text=MUSSAB%20ABDULLAH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20IN%20THE%20MAKING&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Mussab Abdullah animated banner"/><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=Hey%2C+I'm+Mussab+%F0%9F%91%8B;Learning+Machine+Learning+%F0%9F%A7%A0;Building+AI-powered+projects+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Real+Projects" alt="Animated introduction"/>
+</a>I learn by building, experiment by coding, and improve every day.
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7B5CFF,50:00D9FF,100:00FFA3&text=Mussab%20Abdullah&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Developer%20%7C%20Builder&descAlignY=58&animation=fadeIn" width="100%" alt="Animated neon profile banner" /><a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=Learning+Machine+Learning+%F0%9F%A7%A0;Building+AI-powered+projects+%F0%9F%9A%80;Turning+ideas+into+working+software;Learn.+Build.+Improve.+Repeat." alt="Animated typing introduction" />
-</a><p>
-<a href="https://github.com/Musab369">
-<img src="https://img.shields.io/badge/GitHub-Musab369-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://github.com/Musab369?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-7B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
-</a>
-</p>Building in public • Learning by doing • Improving every day
+<a href="https://github.com/Musab369"><img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/Musab369?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7B2FF7?style=for-the-badge&logo=github" alt="Projects"/></a>
 
 </div>---
 
-👨‍💻 About Me
+<div align="center">✦ WHAT I'M BUILDING ✦
 
-class Developer:
-    def __init__(self):
-        self.name = "Mussab Abdullah"
-        self.role = "Aspiring AI/ML Engineer"
-        self.location = "Bihar, India"
-        self.education = "B.Tech CSE"
-        self.interests = [
-            "Machine Learning",
-            "AI-powered applications",
-            "Software development",
-            "Open source"
-        ]
-        self.motto = "Learn. Build. Improve."
+Turning ideas into useful software, one project at a time.
 
-    def next_step(self):
-        return "Build something useful 🚀"
+</div><table>
+<tr>
+<td width="55%" valign="middle">👋 Hey, I'm Mussab!
 
+🎓 B.Tech CSE student
 
-me = Developer()
+🧠 Focused on Machine Learning and AI engineering
 
-- 🧠 Learning Machine Learning through hands-on experiments and projects.
-- ⚙️ Building software and exploring how AI can solve real problems.
-- 🌱 Improving my programming, problem-solving, and engineering skills.
-- 🤝 Open to meaningful collaborations and open-source opportunities.
+⚡ Building software and learning by doing
 
-🛠️ Tech Stack
+🔬 Exploring data, models, and intelligent applications
 
-<div align="center">Languages & Development
+🌱 Growing through projects, experiments, and open source
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,typescript&theme=dark" alt="Programming languages and web development tools" />Data & Machine Learning
+My philosophy: Don't just learn the technology. Build something with it.
 
-<img src="https://skillicons.dev/icons?i=numpy,opencv,sklearn&theme=dark" alt="Machine learning tools" /><img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />Tools
+</td>
+<td width="45%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" alt="Programming languages"/><img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github&theme=dark" alt="Development tools"/><br/><img src="https://img.shields.io/badge/LEARN-7B2FF7?style=for-the-badge" alt="Learn"/>
+<img src="https://img.shields.io/badge/BUILD-00D9FF?style=for-the-badge" alt="Build"/>
+<img src="https://img.shields.io/badge/IMPROVE-9EFF00?style=for-the-badge" alt="Improve"/></td>
+</tr>
+</table>---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code" /></div>🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">🧠 Machine Learning
-
-"machine_learning" (https://github.com/Musab369/machine_learning)
-
-My hands-on ML learning repository, featuring experiments, notebooks, and practical implementations as I develop my skills.
-
-"Python" "Jupyter Notebook" "Machine Learning"
+<td width="50%" valign="top">🧠 Machine Learning Lab
 
 <a href="https://github.com/Musab369/machine_learning">
-<img src="https://img.shields.io/badge/View_Repository-7B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Machine Learning repository" />
-</a></td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Musab369&repo=machine_learning&theme=tokyonight&hide_border=true" width="100%" alt="Machine Learning repository card"/>
+</a>Experiments, notebooks, and practical implementations documenting my ML learning journey.
+
+Focus: Python · NumPy · Pandas · Scikit-learn
+
+</td>
 <td width="50%" valign="top">🌐 Personal Portfolio
 
-"my_portfolio" (https://github.com/Musab369/my_portfolio)
-
-A responsive portfolio website showcasing my projects, skills, and development journey.
-
-"HTML" "CSS" "Web Development"
-
 <a href="https://github.com/Musab369/my_portfolio">
-<img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View portfolio repository" />
-</a></td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Musab369&repo=my_portfolio&theme=tokyonight&hide_border=true" width="100%" alt="Portfolio repository card"/>
+</a>A responsive website showcasing my projects, skills, and development journey.
+
+Focus: HTML · CSS · JavaScript
+
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">🛡️ Asset Defender MVP
-
-"Asset_Defender-MVP" (https://github.com/Musab369/Asset_Defender-MVP)
-
-An MVP project exploring the process of turning an idea into a working software product.
-
-"HTML" "Prototyping" "Development"
-
-<a href="https://github.com/Musab369/Asset_Defender-MVP">
-<img src="https://img.shields.io/badge/View_Repository-00FFA3?style=for-the-badge&logo=github&logoColor=black" alt="View Asset Defender repository" />
-</a></td>
 <td width="50%" valign="top">⚽ Football AI
 
 AI-powered football match intelligence
 
-Exploring how match events, statistics, and machine learning can help turn football data into useful insights.
+Building a football application with simulated match events, statistics, tactical insights, and live match narratives.
 
-"Python" "FastAPI" "JavaScript" "AI/ML"
+Focus: Python · FastAPI · JavaScript · AI/ML
 
-Project in development
+Under development
+
+</td>
+<td width="50%" valign="top">🛡️ Asset Defender MVP
+
+<a href="https://github.com/Musab369/Asset_Defender-MVP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Musab369&repo=Asset_Defender-MVP&theme=tokyonight&hide_border=true" width="100%" alt="Asset Defender repository card"/>
+</a>An MVP project exploring how to turn a software idea into a working prototype.
+
+Focus: HTML · Prototyping · Development
 
 </td>
 </tr>
-</table>📊 GitHub Activity
+</table><div align="center"><a href="https://github.com/Musab369?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a></div>---
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musab369&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab369&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" /><br/><br/>
+⚡ My Tech Arsenal
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Musab369&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>🎯 What I'm Working Toward
+<div align="center">Languages & Development
 
-- Strengthening my Machine Learning foundations.
-- Building practical AI-powered applications.
-- Improving my DSA and software engineering skills.
-- Exploring open-source contributions and collaborative projects.
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,typescript&theme=dark" alt="Languages and web technologies"/>Data & Machine Learning
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B5CFF,50:00D9FF,100:00FFA3" width="100%" alt="" />🤝 Let's Build Something Meaningful
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>Tools
 
-I believe in learning by building, documenting progress, and improving one project at a time.
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/></div>---
+
+📊 The Coding Journey
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musab369&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab369&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages"/><br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Musab369&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/></div>---
+
+🎯 The Mission
+
+<table>
+<tr>
+<td align="center" width="33%">🧠
+
+Understand
+
+Build strong foundations in ML, mathematics, and programming.
+
+</td>
+<td align="center" width="33%">⚙️
+
+Create
+
+Turn concepts into practical projects and useful products.
+
+</td>
+<td align="center" width="33%">🌍
+
+Contribute
+
+Explore open source, collaborate, and share what I learn.
+
+</td>
+</tr>
+</table>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2FF7,50:00D9FF,100:9EFF00" width="100%" alt="Neon divider"/>🤝 LET'S BUILD SOMETHING COOL
+
+Good ideas start with curiosity. Great projects start with building.
 
 <a href="https://github.com/Musab369">
-<img src="https://img.shields.io/badge/Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey" />
+<img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Musab369&style=flat-square&color=7B5CFF&label=Profile+Views" alt="Profile views" />Learn. Build. Improve. 🚀
+Learn. Build. Improve. Repeat. 🚀
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080B12,50:302060,100:00D9FF" width="100%" alt="Animated footer"/></div>

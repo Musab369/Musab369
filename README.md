@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=musab369&theme=neon&role=Aspiring %20AI%20engineer&location=Bihar%2C%20India&v=readme-reference-2" width="100%" alt="Mussab_Abdullah profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=musab369&theme=neon&role=Frontend %20or%20engineer&location=Bihar%2C%20India&v=readme-reference-2" width="100%" alt="Mussab_Abdullah profile banner" />
 
 <br/>
 

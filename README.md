@@ -23,8 +23,7 @@
 ```typescript
 const musab369: Developer = {
   name:      "Mussab_Abdullah",
-  role:      "Aspiring AI Engineer | AI/ML & Intelligent Applications
-B.Tech CSE Student | Machine Learning | Python | FastAPI | Full-Stack Development"
+  role:      "Aspiring AI/ML Engineer"
   location:  "Bihar, India",
   currently: "building in public",
   stack:     ["Jupyter Notebook", "HTML", "TypeScript", "JavaScript", "CSS", "Python"],
@@ -32,7 +31,7 @@ B.Tech CSE Student | Machine Learning | Python | FastAPI | Full-Stack Developmen
 };
 ```
 
-> Aspiring AI Engineer | CSE Student 
+> Aspiring AI/ML Engineer
 > 
 > **Collaborations welcome when they are meaningful 🤝**
 
